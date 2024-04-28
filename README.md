@@ -3,9 +3,9 @@
 Expense Tracker is a simple application designed to help you keep track of your expenses easily. Whether you're managing personal finances or tracking business expenses, 
 this tool provides a straightforward way to log, categorize, and analyze your spending.
 
-Features
+## Features
 
-    Add Expenses: Easily add new expenses with details such as amount, category, date, and notes.
+1. Add Expenses: Easily add new expenses with details such as amount, category, date, and notes.
     View Expenses: View your expenses in a list format, sorted by date or category.
     Edit and Delete: Edit or delete existing expenses as needed to keep your records accurate.
     Expense Categories: Categorize your expenses to better understand where your money is going.
